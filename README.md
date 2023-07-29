@@ -21,3 +21,15 @@ this code is asking for an input of number of ages and then implemetation to the
 
 
 ![Screen Shot 2023-07-29 at 11 12 38 AM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/3a7a0700-e213-4894-ae97-183966a0905c)
+
+
+
+
+
+## HomeWork cit 126 
+
+this code asks for a input of a passord (Secrect be told: its 1234)
+with the process of number of customers that you wanna run it will compile a list of destination (must be from the three of the citys listed), total amount for the order , and shipping cost based on the city.
+
+![Screen Shot 2023-07-29 at 11 18 40 AM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/b84d22e8-d36c-4956-8db7-9e95fce104fc)
+
