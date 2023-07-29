@@ -12,7 +12,7 @@ Homework 5 cit 129
 
 
 
-#cit 129 PYTHON ARRAYS AND Functions : 
+# cit 129 PYTHON ARRAYS AND Functions : 
 
 this code is asking for an input of number of ages and then implemetation to the total with sum of all numbers.
 
