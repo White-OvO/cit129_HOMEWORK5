@@ -41,3 +41,8 @@ this code is a tempature recorder, with the input of tempature in celsius the pr
 
 ![Screen Shot 2023-07-29 at 11 20 54 AM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/a88e6bcf-c122-4f42-9e20-a871e24b26b3)
 
+## lab 7 
+this program is a temapature reader for three inputs with the output of a average of the input tempatures .
+
+
+![Screen Shot 2023-07-29 at 11 22 36 AM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/a9f031b0-7139-4cf9-802e-4f282c77dabd)
