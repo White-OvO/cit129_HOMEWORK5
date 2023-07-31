@@ -49,7 +49,10 @@ this program is a temapature reader for three inputs with the output of a averag
 
 
 
-##homework 7 
+##hw7.py
+
+##
+
 this program outputs "ACME " 3X and then 1 through 9 skipping 2 returninga number of products sold validates the input to its value 1 - 1000 and returns a validated number, by having a input to the functions of products and sets the 
 discounut percentage , later outputing the total results of the total order
 
