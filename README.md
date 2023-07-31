@@ -49,7 +49,7 @@ this program is a temapature reader for three inputs with the output of a averag
 
 
 
-#hw7.py
+## hw7.py
 
 ##
 
