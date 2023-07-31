@@ -1,7 +1,8 @@
 ## Christopher Gonzalez
 ## cit129
 ## lab 7 
-## 
+## this program is a temapature reader for three inputs with the 
+## output of a average othis code is a tempature recorder, with the input of tempature in celsius the program than converts to fareneheit and than outputs the toal average tempature for both the celsius and fahrenheit
 
 
 

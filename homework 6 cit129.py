@@ -24,7 +24,7 @@ while password != 1234:
 ## issue an error message and ask again.
 
 count = 0
-check = False
+check = True
 shippingDestination = ""
 customerName = ""
 numberOfOrders = 0
