@@ -62,5 +62,4 @@ discounut percentage , later outputing the total results of the total order
 
 
 ![Screen Shot 2023-07-31 at 2 52 52 PM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/0bf453a4-773a-4c5f-9578-a8b305e2b2ca)
->>>>>>> 9e163d2dd3d5bdeea96ed18750e4352140ca227a
-# ExpensesCalculator
+
