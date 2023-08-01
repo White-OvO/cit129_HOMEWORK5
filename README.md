@@ -46,3 +46,4 @@ this program is a temapature reader for three inputs with the output of a averag
 
 
 ![Screen Shot 2023-07-29 at 11 22 36 AM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/a9f031b0-7139-4cf9-802e-4f282c77dabd)
+# ExpensesCalculator

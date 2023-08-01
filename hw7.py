@@ -1,10 +1,22 @@
+##chritopher gonzalez
+## cit 129
+## homework 7
+## this program outputs "ACME " 3X and then 1 through 9 skipping 2 returninga number of products sold
+## validates the input to its value 1 - 1000 and returns a validated number, by having a input to the functions of products and sets the 
+## discounut percentage , later outputing the total results of the total order
+
+
+##parametes values and passing to other functions
+
+
 #A function that displays your own full name, use a loop to display the message “ACME Company” 3 times, and the numbers 1 through 9 with steps of 2. This function does not have any parameters and does not return a value.
 
-##function 1 
-fullName = chirs =("Christopher Gonzalez")
+##function 1 \
+def function1():
+    chirs ="Christopher Gonzalez"
 
-print(chirs)
-count = 0
+    print(chirs)
+    count = 0
 while count < 3:
     print("ACME Company ")
     count =  count + 1  
@@ -17,12 +29,12 @@ for i in range(1, 10, 2):
 ## function 2
 # A function that returns the number of products sold. The function prompts the user for the number of products, validates the input to assure it’s a 
 # value between 1 and 1000 (inclusive), and return the validated number. The function does not have a parameter and returns a value.
-
-productsSold = int(input("Enter the number of product sold : "))
-if productsSold < 1000 and productsSold > 1: 
-    print(productsSold , "= total sales of products")
-else:
-    productsSold = int(input("must be between 1 and 10000Enter the number of product sold : "))   
+def sales():  
+    productsSold = int(input("Enter the number of product sold : "))
+    if productsSold < 1000 and productsSold > 1: 
+        print(productsSold , "= total sales of products")
+    else:
+        productsSold = int(input("must be between 1 and 10000Enter the number of product sold : "))   
 
 
 # function 3
@@ -35,6 +47,7 @@ quantity = 0
 totalQuantity = 0
 grandTotal = 0
 
+def soldproduct:
 
 while productsSold > totalProductSold: 
     quantity = int(input("Enter the total quanity for this order : "))
