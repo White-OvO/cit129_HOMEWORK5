@@ -46,9 +46,7 @@ this program is a temapature reader for three inputs with the output of a averag
 
 
 ![Screen Shot 2023-07-29 at 11 22 36 AM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/a9f031b0-7139-4cf9-802e-4f282c77dabd)
-<<<<<<< HEAD
-# ExpensesCalculator
-=======
+
 
 
 
@@ -63,3 +61,11 @@ discounut percentage , later outputing the total results of the total order
 
 ![Screen Shot 2023-07-31 at 2 52 52 PM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/0bf453a4-773a-4c5f-9578-a8b305e2b2ca)
 
+
+## hw7Cit129ChristopherGonzalez
+
+this program is the same output as the regular homework 7 except it runs on functions . 3 diffrent functions to be exact .
+
+##
+
+![Screen Shot 2023-07-31 at 9 00 33 PM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/096b09b2-c197-4ae7-972a-93f30e869f34)
