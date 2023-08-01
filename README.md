@@ -46,4 +46,21 @@ this program is a temapature reader for three inputs with the output of a averag
 
 
 ![Screen Shot 2023-07-29 at 11 22 36 AM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/a9f031b0-7139-4cf9-802e-4f282c77dabd)
+<<<<<<< HEAD
+# ExpensesCalculator
+=======
+
+
+
+## hw7.py
+
+##
+
+this program outputs "ACME " 3X and then 1 through 9 skipping 2 returninga number of products sold validates the input to its value 1 - 1000 and returns a validated number, by having a input to the functions of products and sets the 
+discounut percentage , later outputing the total results of the total order
+
+
+
+![Screen Shot 2023-07-31 at 2 52 52 PM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/0bf453a4-773a-4c5f-9578-a8b305e2b2ca)
+>>>>>>> 9e163d2dd3d5bdeea96ed18750e4352140ca227a
 # ExpensesCalculator
