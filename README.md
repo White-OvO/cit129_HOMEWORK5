@@ -69,3 +69,16 @@ this program is the same output as the regular homework 7 except it runs on func
 ##
 
 ![Screen Shot 2023-07-31 at 9 00 33 PM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/096b09b2-c197-4ae7-972a-93f30e869f34)
+
+
+## lab 8 
+
+asks the user to enter the number of students in a class, and validates that the number is between 1 and 20.
+then it loops through the students and asks for their names and test scores, and stores them in two lists.
+later print the grade book, which shows the names and test scores of each student.
+calculates and prints the average, lowest, and highest test scores of the class. finally asks to search for a name and validate if its a
+true name or a non-existing name 
+
+![Screen Shot 2023-08-05 at 3 05 45 PM](https://github.com/White-OvO/cit129_HOMEWORK5/assets/120700219/8a11fe89-3d32-46e7-ae5a-03ed78556b3c)
+
+
